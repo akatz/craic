@@ -1,5 +1,7 @@
 require "craic/version"
 
 module Craic
-  # Your code goes here...
+  def self.what?
+    90
+  end
 end
